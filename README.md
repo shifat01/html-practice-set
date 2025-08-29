@@ -9,4 +9,4 @@ Note:Only HTML is used here. No CSS
 
 ## How to View:
 1. Clone the repository or download the files.  
-2. Open any index.html file in your browser.
+2. Open index.html file in your browser.
